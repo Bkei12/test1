@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--suppress AndroidUnresolvableTag -->
+    <item
+        android:id="@+id/item_info"
+        android:title="즐겨찾기" />
+    <!--suppress AndroidUnresolvableTag -->
+    <item
+        android:id="@+id/item_report"
+        android:title="기타1" />
+    <!--suppress AndroidUnresolvableTag -->
+    <item
+        android:id="@+id/item_setting"
+        android:title="기타2" />
+    <!--suppress AndroidUnresolvableTag -->
+    <item
+        android:id="@+id/item_notice"
+        android:title="기타3" />
+    <!--suppress AndroidUnresolvableTag -->
+    <item
+        android:id="@+id/item_service_center"
+        android:title="ㄱ;티4" />
+</menu>
